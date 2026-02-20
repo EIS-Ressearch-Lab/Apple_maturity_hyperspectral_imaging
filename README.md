@@ -1,5 +1,5 @@
 # Apple_maturity_hyperspectral_imaging
-Repository for evaluating apple maturity using hyperspectral images. 
+Repository for evaluating apple maturity using hyperspectral images through training and evaluating 2D CNN, 3D CNN, hybrid and ViT deep learning models. 
 
 The best models can be downloaded from: https://drive.google.com/file/d/140DxGlhP4jVqOFuX0CH3RY6ihmqg5TWl/view?usp=drive_link.
 
